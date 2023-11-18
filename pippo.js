@@ -1,3 +1,9 @@
-function myFunc(){
-    // here execute some logic
+function myFunc(a,b){
+    return a+b
 }
+
+console.log(myFunc(6,7))
+
+
+
+
